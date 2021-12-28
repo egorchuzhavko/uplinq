@@ -1,0 +1,16 @@
+/home/jegorjegor/programming/c#/uplinq/rewenie/bin/Release/net5.0/rewenie
+/home/jegorjegor/programming/c#/uplinq/rewenie/bin/Release/net5.0/rewenie.deps.json
+/home/jegorjegor/programming/c#/uplinq/rewenie/bin/Release/net5.0/rewenie.runtimeconfig.json
+/home/jegorjegor/programming/c#/uplinq/rewenie/bin/Release/net5.0/rewenie.runtimeconfig.dev.json
+/home/jegorjegor/programming/c#/uplinq/rewenie/bin/Release/net5.0/rewenie.dll
+/home/jegorjegor/programming/c#/uplinq/rewenie/bin/Release/net5.0/ref/rewenie.dll
+/home/jegorjegor/programming/c#/uplinq/rewenie/bin/Release/net5.0/rewenie.pdb
+/home/jegorjegor/programming/c#/uplinq/rewenie/obj/Release/net5.0/rewenie.csproj.AssemblyReference.cache
+/home/jegorjegor/programming/c#/uplinq/rewenie/obj/Release/net5.0/rewenie.GeneratedMSBuildEditorConfig.editorconfig
+/home/jegorjegor/programming/c#/uplinq/rewenie/obj/Release/net5.0/rewenie.AssemblyInfoInputs.cache
+/home/jegorjegor/programming/c#/uplinq/rewenie/obj/Release/net5.0/rewenie.AssemblyInfo.cs
+/home/jegorjegor/programming/c#/uplinq/rewenie/obj/Release/net5.0/rewenie.csproj.CoreCompileInputs.cache
+/home/jegorjegor/programming/c#/uplinq/rewenie/obj/Release/net5.0/rewenie.dll
+/home/jegorjegor/programming/c#/uplinq/rewenie/obj/Release/net5.0/ref/rewenie.dll
+/home/jegorjegor/programming/c#/uplinq/rewenie/obj/Release/net5.0/rewenie.pdb
+/home/jegorjegor/programming/c#/uplinq/rewenie/obj/Release/net5.0/rewenie.genruntimeconfig.cache
